@@ -2,7 +2,7 @@
 
 A fun and interactive **Bubble Shooter Game** built using **HTML**, **CSS**, and **JavaScript**. The player must click the bubbles containing a target number within 1 minute to score points!
 
-![Bubble Shooter Screenshot](./screenshot.png) <!-- Optional: Add screenshot if available -->
+
 
 ## 🔥 Game Overview
 
