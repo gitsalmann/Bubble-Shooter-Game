@@ -13,6 +13,7 @@ A fun and interactive **Bubble Shooter Game** built using **HTML**, **CSS**, and
 - 🔁 After the timer ends, the game shows **Game Over** with a **Restart option**.
 
 ---
+ScreenShot <img width="1920" height="927" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/68cd10b1-0ea3-4b35-8a39-fbf653fda5c3" />
 
 ## 💡 Features
 
@@ -23,10 +24,3 @@ A fun and interactive **Bubble Shooter Game** built using **HTML**, **CSS**, and
 - Restart functionality
 
 ---
-
-## 📁 Project Structure
-├── index.html # Main HTML file
-├── style.css # Game styling
-├── script.js # JavaScript logic
-├── README.md # Project guide
-
